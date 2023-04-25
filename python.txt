@@ -1,0 +1,66 @@
+conda update --all
+
+conda install numpy
+conda install pandas
+conda install scipy
+conda install scikit-learn
+'https://pypi.org/project/scikit-learn-intelex/
+conda install scikit-learn-intelex  
+conda install matplotlib
+conda install seaborn
+pip install tensorflow
+conda install bokeh
+conda install numba
+conda install cudatoolkit
+conda install -c conda-forge camelot-py
+
+pip install selenium
+pip install webdriver-manager
+conda install -c conda-forge pywinauto
+pip install pyautogui
+
+
+
+pip install pytesseract ****** imagen a texto aun no usado
+
+
+pip install shap
+Bokeh - the Bokeh server is the bridge that lets you connect these tools to rich, interactive visualizations in the browser
+PyTorch????????????????????????????????????????????
+SHAP???????????????????????????????????????????????
+https://www.iartificial.net/librerias-de-python-para-machine-learning/
+
+
+
+
+conda install anaconda
+conda clean --all       ?????
+conda update --all
+
+
+https://www.jetbrains.com/lp/pycharm-anaconda/?=
+
+https://stackoverflow.com/questions/47177397/blank-screen-when-running-jupyterlab
+
+https://stackoverflow.com/questions/63680226/jupyterlab-jupyter-notebook-not-opening-properly-in-browser
+
+https://stackoverflow.com/questions/47772157/how-to-change-the-default-browser-used-by-jupyter-notebook-in-windows
+
+
+
+
+
+
+
+ Windows 64-bit packages of scikit-learn can be accelerated using scikit-learn-intelex.
+    More details are available here: https://intel.github.io/scikit-learn-intelex
+
+    For example:
+
+        $ conda install scikit-learn-intelex
+        $ python -m sklearnex my_application.py
+
+
+
+
+
